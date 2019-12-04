@@ -10,7 +10,7 @@ Text Editor Recommendations: Sublime text, Visual Studio, Atom
 Reading Material <more to come>: 
 1. <a href = "https://www.andyshora.com/full-stack-developers.html"> The Myth of the Full-stack Developer </a>
 2. <a href = "https://edward-designer.com/web/full-stack-web-developer/"> Wait, Wait… What is a Full-stack Web Developer After All? </a>
-
+3. [more to come]
   
   
 <h2> Week 1 </h2> 
