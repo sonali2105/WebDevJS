@@ -22,7 +22,7 @@ Reading Material <more to come>:
 2. CSS Tutorials from <a href = "https://www.w3schools.com/css/default.asp"> W3Schools </a>, <a href = "https://codeguide.co/#css">Code Guida </a>
 
 
-[Project 1] <a href = "https://www.youtube.com/watch?v=OAzgHGrIHWY&list=PLJ8MMmYtV80_JcsDdNXpa3ckjd-Rh4fsD"> Sign Up Form* </a>
+[Project 1] <a href = "https://www.youtube.com/watch?v=OAzgHGrIHWY&list=PLJ8MMmYtV80_JcsDdNXpa3ckjd-Rh4fsD"> Sign Up Form </a>
 [Project 2] <a href = "https://medium.com/frontendshortcut/make-hogwarts-admission-form-in-html-and-css-1cdc21165997"> Hogwarts Form </a>
 
 Deliverables: 
