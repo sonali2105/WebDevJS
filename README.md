@@ -1,107 +1,100 @@
-# WebDevJS
-Girl Script Winter Mentorship: Web Development Track
-
-<b> Introduction </b>
-
-This mentorship programme will focus on how web pages are created and developed from scratch, we will primarily be covering the basics of what every web developer should know: HTML, CSS and JavaScript. 
-
-There are no prerequisites for this course, it is for absolute beginners; any prior experience with programming is a plus. 
-
-Each week we will cover one of the above mentioned languages and in Week 4, we will focus on making a group project that encompasses all the concepts you learn in this programme.
-
-There will be three weekly tasks and the third task in each week will be a small project submission, the code for which will be uploaded by each mentee on the Mentorship Programme GitHub repository. 
+<h1> WEB DEVELOPMENT WINTER MENTORSHIP </h1>
 
 
-<b> Outline of Tasks: </b>
+In this repository, the readme.md file has the detailed course plan and all the final (expected) codes will be uploaded here.
 
 
-1.1
+We assume you are familiar with a Text Editor of your choice, if you have any issues here, you can contact your mentor privately. 
+Text Editor Recommendations: Sublime text, Visual Studio, Atom 
 
-a) Set up Git ID, fill Google Form with Git ID
+Reading Material <more to come>: 
+1. <a href = "https://www.andyshora.com/full-stack-developers.html"> The Myth of the Full-stack Developer </a>
+2. <a href = "https://edward-designer.com/web/full-stack-web-developer/"> Wait, Wait… What is a Full-stack Web Developer After All? </a>
 
-b) Choose your text editor, install and get used to it
+  
+  
+<h2> Week 1 </h2> 
 
-c) Learn the basics of HTML [1]
+<b>Beginners: Foundations with HTML and CSS</b>
 
+1. HTML Tutorials from <a href = "https://www.w3schools.com/html/default.asp">W3Schools</a>, <a href = "https://codeguide.co/#html">Code Guide </a>
 
-1.2
-
-a) HTML5 [2] 
-
-b) Structuring of HTML Documents [3]
-
-c) Forms [4] 
-
-
-1.3
-HTML Project Work: Github [5]
+2. CSS Tutorials from <a href = "https://www.w3schools.com/css/default.asp"> W3Schools </a>, <a href = "https://codeguide.co/#css">Code Guida </a>
 
 
-2.1
+[Project 1] <a href = "https://www.youtube.com/watch?v=OAzgHGrIHWY&list=PLJ8MMmYtV80_JcsDdNXpa3ckjd-Rh4fsD"> Sign Up Form* </a>
+[Project 2] <a href = "https://medium.com/frontendshortcut/make-hogwarts-admission-form-in-html-and-css-1cdc21165997"> Hogwarts Form </a>
 
-a) CSS introduction; styling HTML pages; inline, internal, external CSS  
-b) Styling specific blocks: Classes and ID in HTML 
-
-
-2.2
-
-a) CSS box model and CSS flexbox
-b) Responsive Design: Media Queries
+Deliverables: 
+Complete your own HTML & CSS form using the functionalities used in the projects links provided. 
 
 
-2.3
+<b>Intermediate: Revising fundamentals of HTML and CSS </b>
 
-CSS + HTML Project Work
+1. <a href = "https://launchschool.com/books/http/read/introduction">Introduction to HTTP </a>
 
+2. <a href = "https://learn.shayhowe.com/advanced-html-css/responsive-web-design/">Advanced Responsive Web Design,</a> Refer to Week 2 - Beginners 
 
-3.1
+3. <a href = "http://jqfundamentals.com/chapter/jquery-basics">jQuery</a> 
 
-a) JavaScript Introduction; Debugging in JavaScript
-b) DOM Manipulation, Event Handling
+Optional Projects: 
+[Project 1]<a href = "https://www.youtube.com/watch?v=GJXXf3_dcng&t=177s"> Responsive Landing Page</a>: using HTML, CSS, jQuery
+[Project 2]<a href = "https://medium.com/frontendshortcut/how-to-make-a-polaroid-photo-gallery-in-html-and-css-d68f5a306c84"> Responsive Photo Gallery</a>: using flexbox
 
+Deliverables: 
+Complete a Responsiive Website with HTML and CSS, add as many funcationalities as you like; but a basic set of fucntionalities covered in the above linked projects should be present. 
 
-3.2
+Comments: A good practice would be that if you have full stack or front-end project in mind that you want to finish by the end of this progaramme, start working on it with this and every week's task can add up to the website you want to make.
 
-a) Form Validation in JS
-b) Introduction to HTTP, Ajax, jQuery 
+<h2> Week 2 </h2>
 
+<b>Beginners: HTTP and Responsive Design </b>
 
-3.3
+1. <a href = "https://launchschool.com/books/http/read/introduction">Introduction to HTTP </a>
 
-JS + CSS + HTML Project Work
+2. Responsive Design: <a href= "https://www.youtube.com/watch?v=VQjy_33t8cg">Media Queries</a>, <a href="https://internetingishard.com/html-and-css/responsive-images/">Responsive Images</a>, <a href ="https://www.w3schools.com/bootstrap/default.asp"> Bootstrap </a> 
 
+[Project] <a href = "https://medium.com/frontendshortcut/how-to-make-a-polaroid-photo-gallery-in-html-and-css-d68f5a306c84">Photo Gallery (Responsive; using flexbox)</a>
 
-4
+Deliverables: 
+Complete a Photo Gallery Project with Responsive Design
 
-Final Project: includes HTML, CSS (might add some Bootstrap), JavaScript (might add some jQuery)
+<b> Intermediate: Working with JavaScript and MongoDB </b>
 
+1. JavaScript for Interactivity: DOM Manipulation, Event Handling, Form Validation with JS 
 
-Details on Weekly Project Work: Every week an example screenshot of the expected website you are supposed to make will be shared with you depending on your project interests and this will be building up on what we worked on in the previous week. 
-
-Final Project: Project of your choice completely, will apply what you learned in the mentorship programme and other libraries of your choice which we can discuss in the final week. You will be provided with resources and a list of project ideas.
-
-
-<b>References: </b> 
-
-Main reference websites and sources will be W3Schools, YouTube Lectures, Coursera and will be updated every week.
-
-Week1: HTML
-
-[1] Introduction to HTML from <a href = "https://www.w3schools.com/html/default.asp">W3Schools</a> (Elements to Lists)
-
-[2] HTML5: Go through all the 6 sub-sections on HTML5 on <a href="https://www.w3schools.com/html/html5_intro.asp">W3Schools</a> 
-
-[3] Structuring HTML documents properly from <a href="https://www.coursera.org/learn/website-coding/lecture/fdCIY/properly-structured-documents">Coursera</a>
-
-[4] HTML Forms: Go through all the 4 sub-sections on <a href = "https://www.w3schools.com/html/html_forms.asp">W3Schools</a>
+[Mini Project] To Do List Application using HTML,CSS, JavaScript, jQuery - <a href="https://www.youtube.com/watch?v=2wCpkOk2uCg&t=2s">1</a>,<a href ="https://www.youtube.com/watch?v=bGLZ2pwCaiI&t=157s">2</a>
 
 
-Comments: 
+2. MongoDB: <a href = "https://www.youtube.com/watch?v=-56x56UppqQ">Traversy Media</a>, <a href="https://www.openmymind.net/2011/3/28/The-Little-MongoDB-Book/">MongoDB Book </a>, <a href = "https://www.freecodecamp.org/news/learn-mongodb-a4ce205e7739/">Getting Started with MongoDB </a>
 
-*I personally strongly recommend completing Week 1 from the Coursera Course linked to in [3]. It covers all the basics of HTML. 
+3. Node JS Basics: <a href="https://www.nodebeginner.org/">Beginner book </a> [more to come]
 
-*W3 consortium webpage recommends a <a href = "https://www.wpkube.com/html5-cheat-sheet/">cheat sheet</a> for the HTML tags (found via <a href = "https://www.coursera.org/learn/html/supplement/z5gD8/cheatsheets">Coursera</a>). This is good for beginners, don’t grow dependent on it.
+[Mini Project to come]
 
-*Watch <a href = "https://www.youtube.com/watch?v=UnTQVlqmDQ0&t=90s">this</a> YouTube video to find out what technologies you want to explore beyond this mentorship programme.
 
-*Keep in mind: Learn by writing the code, when you go through a concept or a new tag on w3schools, practice and write the code. One good website to do this for basics is <a href = "https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/say-hello-to-html-elements">freeCodeCamp</a>. 
+Deliverables: 
+Completion of the two Mini Projects.
+Addition of these concepts to the previous week's task will be a plus.
+
+
+<h2> Week 3 </h2>
+
+Beginners: JavaScript Fundamentals
+
+1. Book: <a href ="https://2ality.com/2013/06/basic-javascript.html"> Basic JavaScript </a>
+
+2. [more to come]
+  
+
+Intermediate: Introdcution to React
+
+[more to come]
+  
+
+<h2> Week 4 </h2> 
+
+Beginners: Project Work [to be decided]
+
+Intermediate: Working with React/Angular + Node + MongoDB
+
