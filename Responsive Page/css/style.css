@@ -1,0 +1,77 @@
+body{
+    background-color: #dedede;
+}
+h1{
+    text-align: center;
+}
+.gallery{
+    display: flex;
+    width: 90vw;
+    max-width: 900px;
+    margin: auto;
+    justify-content: center;
+    flex-wrap: wrap;
+    background: #111;
+    padding: 1rem 0px;
+}
+figure{
+    width: 180px;
+    margin: 8px 0;
+    border: 1px solid #777;
+    padding: 0.5rem;
+    box-sizing: border-box;
+    background-color: #fff;
+    margin: 0.25rem;
+}
+figure img{
+    width: 100%;
+}
+figure figcaption{
+    text-align: center;
+    padding: 0.5rem 0.125rem;
+}
+footer {
+    padding: 1rem;
+    min-height: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+  }
+  .credit {
+    font-size: 1.25rem;
+  }
+  .heart {
+    font-size: 2rem;
+    color: red;
+  }
+  
+  .credit a {
+    text-decoration: none;
+    color: blue;
+  }
+  .credit a:hover {
+    text-decoration: underline;
+  }
+  media screen and (max-width: 780px) {
+    figure {
+      width: 250px;
+    }
+    figcaption {
+      font-size: 1.25rem;
+    }
+  }
+  
+  @media screen and (max-width: 568px) {
+    figure {
+      width: 340px;
+    }
+    figcaption {
+      font-size: 1.75rem;
+    }
+  }
+  @media screen and (max-width: 690px) {
+    .gallery {
+      width: 100%;
+    }
+  }
